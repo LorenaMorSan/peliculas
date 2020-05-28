@@ -1,0 +1,21 @@
+body{
+background: url(../img/p.jpg);
+}
+h1 { color: #8f58B9  ;
+font-size: 60px;
+}
+h2{ color: #33FFFD;
+}
+h3{ color: #FF333C;
+font-size: 30px;
+}
+table{
+background-color: fuchsia;
+text-align: center;
+widt:100%;
+align: center;
+}
+tr,td{border: solid 1px black;
+}
+h4{ align: center ;
+}
